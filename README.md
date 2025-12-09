@@ -7,8 +7,6 @@ Welcome to my profile! I am a Computer Systems Engineer passionate about buildin
 
 ### 🚀 About Me
 
-> *"I don't just write code; I engineer mobile experiences."*
-
 I am a **Computer Systems Engineer** specializing in Mobile Development. My journey is defined by a passion for bridging the gap between complex backend logic and beautiful, fluid user interfaces.
 
 - 🎓 **Academic Status:** B.S. in Computer Systems Engineering.
