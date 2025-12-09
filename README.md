@@ -44,13 +44,3 @@ I am a **Computer Systems Engineer** specializing in Mobile Development. My jour
   <img src="https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge&logo=check&logoColor=white" alt="SOLID"/>
 </p>
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAHR20&show_icons=true&theme=midnight-owl&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAHR20&layout=compact&theme=midnight-owl&hide_border=true" alt="Top Languages" />
-</div>
-
----
