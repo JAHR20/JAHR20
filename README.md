@@ -43,14 +43,6 @@ I am a **Computer Systems Engineer** specializing in Mobile Development. My jour
   <img src="https://img.shields.io/badge/MVVM-Pattern-purple?style=for-the-badge&logo=layers&logoColor=white" alt="MVVM"/>
   <img src="https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge&logo=check&logoColor=white" alt="SOLID"/>
 </p>
-
-**Design & Version Control**
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
